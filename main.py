@@ -51,7 +51,11 @@ col1, col2 = st.columns([1, 2])
 star = col1.date_input("From: ",datetime.date(2015, 1,1))
 en = col2.date_input("Till: ", datetime.datetime.now())
 
-tickerDf = tickerData.history(period = '1d', start=star, end=en)
+time_period = ['1m','2m','5m','15m','30m','60m','90m','1h','1d','5d','1wk','1mo','3mo']
+
+period = st.selectbox("Choose Time Period: ",time_period)
+
+tickerDf = tickerData.history(period = period, start=star, end=en)
 
 st.write("""
          ## CLOSING :""")
