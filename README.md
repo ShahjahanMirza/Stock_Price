@@ -2,6 +2,9 @@
 
 Use this link to run the app: https://shahjahanmirza-stock-price-main-gtzl53.streamlit.app/
 
+![Screenshot 2023-05-31 011150](https://github.com/ShahjahanMirza/Stock_Price/assets/103453568/33ec91b4-0a3d-4d2b-8472-8fbbacc4d599)
+
+
 This Stock Price Streamlit program, uses yfiannce library to show you your desired stock's closing and volume over the time. 
 This a very simple stock price app which is built using Python. 
 
