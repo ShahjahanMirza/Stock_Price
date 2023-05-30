@@ -1,0 +1,4 @@
+yfinance 
+streamlit 
+datetime
+numpy 
