@@ -1,6 +1,6 @@
 # Stock_Price
 
-Use this link to run the app: https://shahjahanmirza-stock-price-main-gtzl53.streamlit.app/
+Use this link to run the app: [click me] link: https://shahjahanmirza-stock-price-main-gtzl53.streamlit.app/
 
 ![Screenshot 2023-05-31 011150](https://github.com/ShahjahanMirza/Stock_Price/assets/103453568/33ec91b4-0a3d-4d2b-8472-8fbbacc4d599)
 
